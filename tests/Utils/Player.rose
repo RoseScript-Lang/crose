@@ -1,0 +1,4 @@
+// Define player defaults
+var Player.Name = "Unknown";
+val Player.Health = 100;
+var Player.Status = "Idle";

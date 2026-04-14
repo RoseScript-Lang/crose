@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1776201388 source:c:\users\zohan\onedrive\documents\crose\main.c
+	"lib/librose.h"
+
+1776201672 c:\users\zohan\onedrive\documents\crose\lib\librose.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"rosectype.h"
+
+1776199690 c:\users\zohan\onedrive\documents\crose\lib\rosectype.h
+	<ctype.h>
+	<stdbool.h>
+

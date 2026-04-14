@@ -1,0 +1,6 @@
+
+
+val PI = 3.14
+val factor = 2
+
+printl("Math module loaded.")
